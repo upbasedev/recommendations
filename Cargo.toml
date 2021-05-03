@@ -1,13 +1,13 @@
 [package]
-name = "pipeless"
+name = "recommendations"
 version = "0.0.1"
 authors = ["Bevan Hunt <bevan@bevanhunt.com>"]
 edition = "2018"
 license = "MIT"
-keywords = ["pipeless", "api"]
-categories = ["web-programming", "api-bindings"]
-description = "Pipeless API"
-repository = "https://github.com/apibillme/pipeless"
+keywords = ["pipeless", "recommendations", "ai", "recommender"]
+categories = ["web-programming::http-server", "database-implementations", "authentication"]
+description = "Recommendations Web Service for Pipeless"
+repository = "https://github.com/apibillme/recommendations"
 readme = "README.md"
 
 [dependencies]
